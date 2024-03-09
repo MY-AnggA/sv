@@ -19,7 +19,8 @@ wget -q https://raw.githubusercontent.com/MY-AnggA/vip/main/update.sh && chmod +
 
 ```
 
-# IZIN IP CHAT AJA KE TELEGRAM (FREE)
+#### IZIN IP CHAT AJA KE TELEGRAM (FREE)
+
 ### TELEGRAM
 <a href="https://t.me/anggaalfarizi" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
