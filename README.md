@@ -10,12 +10,12 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/MY-AnggA/vip/main/angga.sh && chmod +x angga.sh && ./angga.sh
+apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/MY-AnggA/sv/main/anggaalfarizi.sh && chmod +x anggaalfarizi.sh && ./anggaalfarizi.sh
 
 ```
 ### UPDATE SCRIPT 
 ```
-wget -q https://raw.githubusercontent.com/MY-AnggA/vip/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/MY-AnggA/sv/main/kunyuk.sh && chmod +x kunyuk.sh && ./kunyuk.sh
 
 ```
 
