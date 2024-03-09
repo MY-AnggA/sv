@@ -29,3 +29,4 @@ wget -q https://raw.githubusercontent.com/MY-AnggA/vip/main/update.sh && chmod +
 
 ![IMG_20231125_153610](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOS1utjhLJNEiaBpBZabv5_2YOKYBUnngtA&usqp=CAU)
 
+SEKIAN DAN TERIMA GAJIH 😘
