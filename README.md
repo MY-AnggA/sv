@@ -25,7 +25,7 @@ wget -q https://raw.githubusercontent.com/MY-AnggA/vip/main/update.sh && chmod +
 <a href="https://t.me/anggaalfarizi" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 #### SCREENSHOT SCRIPT
-![IMG_20231125_153610](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOS1utjhLJNEiaBpBZabv5_2YOKYBUnngtA&usqp=CAU)
+![IMG_20231125_153610](https://raw.githubusercontent.com/MY-AnggA/Ga-Penting/main/img/gambarbokep.jpg)
 
 ![IMG_20231125_153610](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOS1utjhLJNEiaBpBZabv5_2YOKYBUnngtA&usqp=CAU)
 
