@@ -16,7 +16,7 @@ apt install python3 python3-pip git
 #mv bot/* /usr/bin
 chmod +x /usr/bin/*
 #rm -rf bot.zip
-wget https://github.com/MY-AnggA/sv/raw/main/bot/regist.zip
+wget https://github.com/MY-AnggA/sv/raw/main/bot/regis.zip
 unzip regis.zip
 rm -rf regis.zip
 pip3 install -r regis/requirements.txt
